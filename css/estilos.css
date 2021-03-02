@@ -27,6 +27,7 @@ body
 }
 #container
 {
+    color: black;
     width:70%;
     padding: 0;
     text-align: left;
@@ -35,10 +36,18 @@ body
 }
 #container h1
 {
-    font-size: 22px;
-
+    color:rgb(42, 42, 82);
+    font-size: 25px;
 }
 #post
 {
-    padding:lem;
+    padding:1em;
+}
+#footer
+{
+    background: #777;
+    color:rgb(42, 42, 82);
+    text-align: center;
+    font-size: 16px;
+    padding:0.5em;
 }
